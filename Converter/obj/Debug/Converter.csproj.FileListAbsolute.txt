@@ -1,0 +1,6 @@
+C:\Users\Alex\Desktop\C# Programming\Converter\Converter\bin\Debug\Converter.exe.config
+C:\Users\Alex\Desktop\C# Programming\Converter\Converter\bin\Debug\Converter.exe
+C:\Users\Alex\Desktop\C# Programming\Converter\Converter\bin\Debug\Converter.pdb
+C:\Users\Alex\Desktop\C# Programming\Converter\Converter\obj\Debug\Converter.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\C# Programming\Converter\Converter\obj\Debug\Converter.exe
+C:\Users\Alex\Desktop\C# Programming\Converter\Converter\obj\Debug\Converter.pdb
